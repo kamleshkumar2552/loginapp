@@ -41,7 +41,9 @@
 	</dependencies>
 	<build>
 		<finalName>LoginWebApp</finalName>
-            <plugins>
+
+
+     <plugins>
 			<!-- Compiler plug-in -->
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
