@@ -34,7 +34,7 @@ public class HomePageTest {
 	
 	@Test
 	public void verifyPageTittle() {
-		driver.get("http://130.211.132.38:8181/loginapp1/");
+		driver.get("http://130.211.132.38:8181/applogin/");
 	    String Expectedtitle = "JSP Example";
 	    String Actualtitle = driver.getTitle();
 	    Assert.assertEquals(Actualtitle, Expectedtitle);
