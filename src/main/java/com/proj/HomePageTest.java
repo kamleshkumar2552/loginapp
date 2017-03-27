@@ -21,6 +21,8 @@ public class HomePageTest {
 	/*private WebDriver driver=null; */
 	private HtmlUnitDriver driver=null;
 	
+	if(true){
+	}
 
 	@BeforeClass
 	public void testSetUp() {
