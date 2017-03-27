@@ -71,7 +71,7 @@
 				<artifactId>maven-checkstyle-plugin</artifactId>
 				<version>2.10</version>
 				<configuration>
-				<sourceDirectory>/src/main/java/com/proj</sourceDirectory>
+				<sourceDirectory>src</sourceDirectory>
 				</configuration>
 		               </plugin>
 		</plugins>	
