@@ -1,6 +1,0 @@
-deployment:
-  staging:
-    branch:master
-    codedeploy:
-      my-app:
-        deployment_group: instance1-WebServerSecurityGroup-1L9HZ2RO5OVPG
